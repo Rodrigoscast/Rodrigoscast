@@ -49,6 +49,7 @@
 ### 🌟 Projetos em destaque
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
+| [Portfólio](https://github.com/Rodrigoscast/portfolio) | Portfólio pessoal interativo. | Next.js, Tailwind, Framer, APIs |
 | [Eva - Solução Unimed](https://github.com/Rodrigoscast/hackaton-2025) | Assistente médica com IA criada em hackathon. | Next.js, FastAPI, Supabase |
 | [Ludoteca](https://github.com/Rodrigoscast/ludoteca) | Hub de jogos clássicos web. | React, Next.js |
 | [Sistema de Estoque](https://github.com/Rodrigoscast/estoque-web) | Sistema completo de gestão de estoque. | Node.js, PostgreSQL, Next.js |
