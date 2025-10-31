@@ -17,9 +17,9 @@
 
 ---
 
-### 🧠 Tecnologias que uso
+### 🧠 Algumas tecnologias que uso
 
-<div align="center">
+<div align="center" justify="between">
 
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" style="margin: 8px;" />
