@@ -13,11 +13,13 @@
   
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Framer Motion](https://img.shields.io/badge/-framer-000?style=for-the-badge&logo=framer)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-339933?style=for-the-badge&logo=php&logoColor=fff)
+![C#](https://img.shields.io/badge/-C#-38B2AC?style=for-the-badge&logo=c#&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-C-38B2AC?style=for-the-badge&logo=c&logoColor=fff)
+![Oracle](https://img.shields.io/badge/-oracle-38B2AC?style=for-the-badge&logo=oracle&logoColor=fff)
 
 </div>
 
