@@ -7,6 +7,13 @@
 
 ---
 
+## 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://github.com/Rodrigoscast/Rodrigoscast/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🧠 Tecnologias que uso
 
 <div align="center">
@@ -50,13 +57,6 @@
 📧 **rodrigoscast.dev@gmail.com**  
 🌐 [Portfólio](https://rodrigoscast.dev)  
 💼 [LinkedIn](https://linkedin.com/in/rodrigoscast)
-
----
-
-## 🐍 Minhas contribuições
-<p align="center">
-  <img src="https://github.com/Rodrigoscast/Rodrigoscast/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
