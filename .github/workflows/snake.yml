@@ -18,11 +18,16 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Gerar animação da cobrinha
-        uses: Platane/snk@v3
+      - name: Gerar animação da cobrinha estilizada
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rodrigoscast
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+          snake_color: "#06b6d4"
+          background: "#0a0a0a"
+          color_snake: "#06b6d4"
+          color_dots: "#1e293b,#334155,#475569"
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
