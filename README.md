@@ -51,15 +51,15 @@
 |----------|------------|--------------|
 | [Eva - Solução Unimed](https://github.com/Rodrigoscast/hackaton-2025) | Assistente médica com IA criada em hackathon. | Next.js, FastAPI, Supabase |
 | [Ludoteca](https://github.com/Rodrigoscast/ludoteca) | Hub de jogos clássicos web. | React, Next.js |
-| [Controle de Frota](https://github.com/Rodrigoscast/frota) | Sistema completo de gestão de veículos. | Node.js, PostgreSQL, React |
+| [Sistema de Estoque](https://github.com/Rodrigoscast/estoque-web) | Sistema completo de gestão de estoque. | Node.js, PostgreSQL, Next.js |
 
 ---
 
 ### 💬 Contato
 
-📧 **rodrigoscast.dev@gmail.com**  
-🌐 [Portfólio](https://rodrigoscast.dev)  
-💼 [LinkedIn](https://linkedin.com/in/rodrigoscast)
+📧 **rodrigo.kontato@gmail.com**  
+🌐 [Portfólio ](https://rodrigoscastro.netlify.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-castro-b09847243/)
 
 ---
 
