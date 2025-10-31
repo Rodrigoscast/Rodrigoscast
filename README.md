@@ -49,3 +49,24 @@
 📧 **rodrigoscast.dev@gmail.com**  
 🌐 [Portfólio](https://rodrigoscast.dev)  
 💼 [LinkedIn](https://linkedin.com/in/rodrigoscast)
+
+---
+
+## 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://github.com/Rodrigoscast/Rodrigoscast/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 Meus troféus
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigoscast&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 Streak de commits
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rodrigoscast&theme=tokyonight&hide_border=true&border_radius=8&fire=FF6A00&ring=5B8FF9" alt="GitHub Streak" />
+</p>
