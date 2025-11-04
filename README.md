@@ -77,11 +77,6 @@
 
 📧 **rodrigo.kontato@gmail.com**  
 🌐 [Portfólio](https://rodrigoscastro.netlify.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-castro-b09847243/)
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigosilvacastro/)
 
 ---
-
-## 🏆 Meus troféus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigoscast&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
