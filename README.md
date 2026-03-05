@@ -1,13 +1,13 @@
-# 👋 Olá! Eu sou o Rodrigo
+# 👋 Hello! I’m Rodrigo
 
-🎓 Engenheiro de Software (6º semestre)  
-💻 Desenvolvedor Full Stack | Foco em desempenho, segurança e escalabilidade  
-🚀 Experiência com React, Next.js, Python, Node.js, PostgreSQL, Oracle e APIs  
-🌐 Apaixonado por tecnologia, design e soluções criativas
+🎓 Software Engineering Student (6th semester)  
+💻 Full Stack Developer | Focus on performance, security and scalability  
+🚀 Experience with React, Next.js, Python, Node.js, PostgreSQL, Oracle and APIs  
+🌐 Passionate about technology, design and creative solutions
 
 ---
 
-## 🐍 Minhas contribuições
+## 🐍 My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodrigoscast/Rodrigoscast/output/github-contribution-grid-snake-dark.svg">
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Algumas tecnologias que uso
+### 🧠 Some technologies I use
 
 <div align="center" justify="between">
 
@@ -52,31 +52,20 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoscast&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoscast&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🌟 Projetos em destaque
-| Projeto | Descrição | Tecnologias |
+### 🌟 Featured Projects
+| Project | Description | Technologies |
 |----------|------------|--------------|
-| [Portfólio](https://github.com/Rodrigoscast/portfolio) | Portfólio pessoal interativo. | Next.js, Tailwind, Framer, APIs |
-| [Eva - Solução Unimed](https://github.com/Rodrigoscast/hackaton-2025) | Assistente médica com IA criada em hackathon. | Next.js, FastAPI, Supabase |
-| [Ludoteca](https://github.com/Rodrigoscast/ludoteca) | Hub de jogos clássicos web. | React, Next.js |
-| [Sistema de Estoque](https://github.com/Rodrigoscast/estoque-web) | Sistema completo de gestão de estoque. | Node.js, PostgreSQL, Next.js |
+| [Portfolio](https://github.com/Rodrigoscast/portfolio) | Interactive personal portfolio. | Next.js, Tailwind, Framer, APIs |
+| [Eva - Unimed Solution](https://github.com/Rodrigoscast/hackaton-2025) | AI medical assistant created in a hackathon. | Next.js, FastAPI, Supabase |
+| [Ludoteca](https://github.com/Rodrigoscast/ludoteca) | Classic web games hub. | React, Next.js |
+| [Inventory System](https://github.com/Rodrigoscast/estoque-web) | Complete inventory management system. | Node.js, PostgreSQL, Next.js |
 
 ---
 
-### 💬 Contato
+### 💬 Contact
 
 📧 **rodrigo.kontato@gmail.com**  
-🌐 [Portfólio](https://rodrigoscastro.netlify.app/)  
+🌐 [Portfolio](https://rodrigoscastro.netlify.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/rodrigosilvacastro/)
 
 ---
