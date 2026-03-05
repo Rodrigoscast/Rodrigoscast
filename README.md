@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Rodrigo
 
-🎓 Software Engineering Student (6th semester)  
+🎓 Software Engineering  
 💻 Full Stack Developer | Focus on performance, security and scalability  
 🚀 Experience with React, Next.js, Python, Node.js, PostgreSQL, Oracle and APIs  
 🌐 Passionate about technology, design and creative solutions
